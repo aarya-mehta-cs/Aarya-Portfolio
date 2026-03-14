@@ -1,14 +1,2 @@
-# Aarya-Portfolio
-My Portfolio
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Aarya Mehta | Portfolio</title>
-</head>
-<body>
-    <h1>Aarya Mehta</h1>
-    <p>Software Engineer. NMAMIT Graduate.</p>
-
-    </body>
-</html>
+# Aarya Mehta - Portfolio
+This is the source code for my personal portfolio website.
